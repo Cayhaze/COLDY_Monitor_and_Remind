@@ -1,0 +1,21 @@
+{
+  "app_id": "YOUR_APP_ID",
+  "kdt_id": "YOUR_KDT_ID",
+  "alias": "YOUR_PRODUCT_ALIAS",
+  "title": "YOUR_PRODUCT_TITLE",
+  "interval_seconds": 5,
+  "jitter_seconds": 0.5,
+  "timeout_seconds": 15,
+  "sound": true,
+  "open_wechat_shortcut": true,
+  "wechat_shortcut": "",
+  "open_browser_on_alert": true,
+  "notify_provider": "pushplus",
+  "pushplus_token": "",
+  "serverchan_sendkey": "",
+  "wecom_webhook": "",
+  "feishu_webhook": "",
+  "ntfy_topic": "",
+  "generic_webhook": "",
+  "dashboard_port": 8898
+}

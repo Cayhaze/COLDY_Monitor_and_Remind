@@ -1,0 +1,9 @@
+# Local runtime data
+config.json
+captures/
+*.pid
+*.log
+
+# Local shortcuts
+*.lnk
+*.url
